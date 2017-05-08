@@ -1,0 +1,7 @@
+SampleTests.js
+
+Try to grab this in import by eclipse - written in CRX - 4:11pm
+
+Send this back from eclipse - should show up on CRXDE without doing anything.
+
+Another change from eclipse - 4:48pm
